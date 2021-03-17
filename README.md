@@ -1,8 +1,17 @@
-## Welcome to Rainer's Github Pages -site
+## Welcome to Rainer's Learning Blog (under construction!)
 
-You can use the [editor on GitHub](https://github.com/rmkujala/rmkujala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I aim to write here about my learnings on different topics I read or learn about.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some topics to write up at some point:
+
+- Thoughts brought up by reading the Book of Why
+- Shape Up -method by Basecamp.
+- On clean code & clean architecture. 
+- The 5 most important things I have learned about mobility & transportation. 
+- Analogies between writing clean code & good scientific articles.
+
+
+## Jekyll & Markdown -instructions:
 
 ### Markdown
 
