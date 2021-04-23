@@ -21,7 +21,7 @@ While the basics of probability calculus seemed very logical, I found the "testi
 At a later stage, I then participated a course on Bayesian modelling, and the approach for Bayesian modelling felt compelling to me due to the consistent and intuitive theoretical framework. I think I really enjoyed the fact that effect estimates were described by probability distributions instead of a "treatment effect point-estimate + p-value" -combos, which I used to work with e.g. in my Master thesis.
 During this course, we eventually wen't through and implemented Bayesian estimators and samplers by hand. Luckily, since then packages like Stan have made the application of Bayesian methods orders of magnitudes easier & faster.
 
-Compared to frequentist approaches, one key (and much debated) ingredient of Bayesian models was the introduction of prior distributions of parameter values. This, together with a probabilistic model of the data-generating process, then allows for the estimated model parameter values to be expressed as easily interpretable probability distributions.
+Compared to frequentist approaches, one key (and much debated) ingredient of Bayesian models is the introduction of prior distributions of parameter values. This, together with a probabilistic model of the data-generating process allows then for the estimated model parameter values to be expressed as easily interpretable probability distributions.
 
 While I have not really done much work (apart from playing around with some toy examples), I had felt that Bayesian modelling was the way to go, and could not foresee anything as remarkable behind the corner. Not before I read the Book of Why.
 
